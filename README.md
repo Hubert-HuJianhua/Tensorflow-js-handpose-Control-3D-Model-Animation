@@ -2,7 +2,7 @@
 Tensorflow-js-handpose-Control-3D-Model-Animation
 
 ### First
-Type in terminal:
+Type in terminal:<br/>
 yarn install 
 
 ### And then
